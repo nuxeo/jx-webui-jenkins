@@ -1,0 +1,6 @@
+embeddable-build-status:2.0.2
+pipeline-utility-steps:2.3.0
+timestamper:1.10
+workflow-basic-steps:2.15
+cucumber-reports:4.10.0
+github-oauth:0.33
