@@ -1,6 +1,7 @@
+configuration-as-code:1.32
 embeddable-build-status:2.0.2
-pipeline-utility-steps:2.3.0
+pipeline-utility-steps:2.3.1
 timestamper:1.10
-workflow-basic-steps:2.15
+workflow-basic-steps:2.18
 cucumber-reports:4.10.0
 github-oauth:0.33
