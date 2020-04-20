@@ -1,8 +1,8 @@
-configuration-as-code:1.32
-embeddable-build-status:2.0.2
+configuration-as-code:1.36
+embeddable-build-status:2.0.3
 pipeline-github:2.5
-pipeline-utility-steps:2.3.1
-timestamper:1.10
-workflow-basic-steps:2.18
-cucumber-reports:4.10.0
+pipeline-utility-steps:2.5.0
+timestamper:1.11.3
+workflow-basic-steps:2.19
+cucumber-reports:5.0.2
 github-oauth:0.33
